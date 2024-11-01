@@ -25,4 +25,5 @@
 
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirayxa2&theme=tokyonight">
+     <img src="https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5">
 </p>
