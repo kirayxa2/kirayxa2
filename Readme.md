@@ -23,5 +23,5 @@
 
 
 <p align="center">
-     <img src="https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5">
+     <img src="https://streak-stats.demolab.com?user=kirayxa2&theme=dracula&border_radius=4.5">
 </p>
